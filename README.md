@@ -1,4 +1,4 @@
-# Name: Aman Mishra, 20222708
+# Name: Aman Mishra
 # link to repo: https://github.com/mishraaman404/chatPDF.git
 
 # Content of the project
